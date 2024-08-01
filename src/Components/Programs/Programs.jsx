@@ -9,12 +9,15 @@ function Programs() {
     <div className='programs '>
         <div className="program">
             <img src={program_1} alt="" />
+            <button className='btn'>More ..</button>
         </div>
         <div className="program">
             <img src={program_2} alt="" />
+            <button className='btn'>More ..</button>
         </div>
         <div className="program">
             <img src={program_3} alt="" />
+            <button className='btn'>More ..</button>
         </div>
       
     </div>
